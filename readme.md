@@ -1,10 +1,11 @@
-# Filter Countries
-This to learn DOM by building a small App that filters countries
+# Filter Countries-v-2
+This to learn DOM, Fetch API, JSON, Importing/exporting Modules by building a web app that filters countries
 # Technologies 
 - HTML
 - CSS
 - JavaScript
 # License
+- Free to use
 # Author
 #### Husham
 # DEMO
